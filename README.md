@@ -1,7 +1,8 @@
 ### Manual do projeto
 
-- Requer ter python 3 instalado;
-- Rodar seguintes comandos;
+- Requer ter python 3.8.2 instalado:
+ https://www.python.org/downloads/
+- Rodar seguintes comandos:
 > pip install  selenium
 > pip3 install PyQt5
 > pip3 install PyQt5-tools
